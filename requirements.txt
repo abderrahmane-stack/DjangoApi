@@ -9,7 +9,6 @@ django-filter==24.3
 djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
 idna==3.7
-mysqlclient==2.2.4
 ndg-httpsclient==0.5.1
 pusher==3.3.2
 pyasn1==0.6.0
@@ -22,3 +21,4 @@ six==1.16.0
 sqlparse==0.5.1
 tzdata==2024.1
 urllib3==2.2.2
+PyMySQL==1.0.2
