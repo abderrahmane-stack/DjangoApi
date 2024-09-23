@@ -1,5 +1,10 @@
 # **Emarket API Documentation**
 
+## Documentation
+
+For detailed documentation, please [click here](https://drive.google.com/file/d/1BEq6rNTqfNYjr8zezsuOVz8kvXz08ouO/view?usp=sharing).
+
+
 ## **Overview**
 
 Emarket is an e-commerce platform built with Django, supporting the following functionalities:
