@@ -1,7 +1,3 @@
-Here's a detailed documentation for your Django-based e-commerce API project called **Emarket**:
-
----
-
 # **Emarket API Documentation**
 
 ## **Overview**
@@ -200,6 +196,3 @@ Custom error handling views are defined in the `utils` app:
 - **Products**: `/api/products/`
 - **JWT Token**: `/api/token/`
 
----
-
-This documentation provides an overview of all the key features and API endpoints in the **Emarket** project. Let me know if you need more details or modifications!
